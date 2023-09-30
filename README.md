@@ -12,7 +12,7 @@ This is the readme file for my personal portfolio website.
 
 ## Installation
 
-To view my personal portfolio, simply navigate to the following URL: [ashabajasper.netlify.app/](https://portfolio-x94c.onrender.com/)
+To view my personal portfolio, simply navigate to the following URL: [johnson.com/](https://portfolio-x94c.onrender.com/)
 
 There are no additional installation steps required to view the website. However, if you wish to make changes to the code, you will need to follow the steps below:
 
