@@ -12,14 +12,13 @@ This is the readme file for my personal portfolio website.
 
 ## Installation
 
-To view my personal portfolio, simply navigate to the following URL: [ashabajasper.netlify.app/](https://ashabajasper.netlify.app/)
-
+To view my personal portfolio, simply navigate to the following URL: [ashabajasper.netlify.app/](https://portfolio-x94c.onrender.com/)
 
 There are no additional installation steps required to view the website. However, if you wish to make changes to the code, you will need to follow the steps below:
 
- 1. Clone the repository onto your local machine  
- 2.Make you changes  
- 3.Open a pull request  
+1.  Clone the repository onto your local machine  
+    2.Make you changes  
+    3.Open a pull request
 
 ## Usage
 
@@ -49,6 +48,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ---
 
 ## Description
+
 Portfolio site detailing the following sections:
 
 **About Me:** \
@@ -61,16 +61,16 @@ Work experience set as default, educational history available via toggle.
 Panels splitting skills into sections, ability to click on each panel displaying further detail.
 
 **Portfolio Projects:** \
-Short description of GitHub projects, links available via the *More Info* button.
-    
+Short description of GitHub projects, links available via the _More Info_ button.
+
 **Recommended Resources:** \
 Split by online courses, books and papers. Percentage score indicating my opinion of importance.
-    
+
 **Contact Me:** \
 Ability to sent an email regarding collab opportunities.
 
 ---
 
-
 ## Credit and Recognition
+
 Creation of this portfolio is influenced by tutorials from <a href="https://www.youtube.com/watch?v=27JtRAI3QO8&ab_channel=Bedimcode">bedimcode</a> and <a href="https://www.youtube.com/watch?v=aoQ6S1a32j8&list=PLaDESvc0GCqdvZNsqzNrtCN_jPcVA2PsI&index=2&ab_channel=freeCodeCamp.org">thecodercoder</a> via freeCodeCamp.
